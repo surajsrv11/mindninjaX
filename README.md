@@ -45,7 +45,7 @@
 - [How to explain Machine Learning to your Granny](https://dev.to/mindninjax/how-to-explain-machine-learning-to-your-granny-364o)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://dev.to/feed/mindninjax)
+➡️ [more blog posts...](https://dev.to/mindninjax)
 
 
 
